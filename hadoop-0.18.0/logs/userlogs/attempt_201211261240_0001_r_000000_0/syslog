@@ -1,0 +1,59 @@
+2012-11-26 12:41:36,506 INFO org.apache.hadoop.metrics.jvm.JvmMetrics: Initializing JVM Metrics with processName=SHUFFLE, sessionId=
+2012-11-26 12:41:36,638 INFO org.apache.hadoop.mapred.ReduceTask: ShuffleRamManager: MemoryLimit=78643200, MaxSingleShuffleLimit=19660800
+2012-11-26 12:41:36,646 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Thread started: Thread for merging on-disk files
+2012-11-26 12:41:36,646 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Thread waiting: Thread for merging on-disk files
+2012-11-26 12:41:36,647 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Need another 10 map output(s) where 0 is already in progress
+2012-11-26 12:41:36,647 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Thread started: Thread for merging in memory files
+2012-11-26 12:41:36,746 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0: Got 10 new map-outputs & number of known map outputs is 10
+2012-11-26 12:41:36,746 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Scheduled 1 of 10 known outputs (0 slow hosts and 9 dup hosts)
+2012-11-26 12:41:37,040 INFO org.apache.hadoop.mapred.ReduceTask: Shuffling 38 bytes (38 raw bytes) into RAM from attempt_201211261240_0001_m_000008_0
+2012-11-26 12:41:37,041 INFO org.apache.hadoop.mapred.ReduceTask: Read 38 bytes from map-output for attempt_201211261240_0001_m_000008_0
+2012-11-26 12:41:37,094 INFO org.apache.hadoop.mapred.ReduceTask: Rec #1 from attempt_201211261240_0001_m_000008_0 -> (8, 8) from hadoop-desk.localdomain
+2012-11-26 12:41:38,651 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Scheduled 1 of 9 known outputs (0 slow hosts and 8 dup hosts)
+2012-11-26 12:41:38,666 INFO org.apache.hadoop.mapred.ReduceTask: Shuffling 38 bytes (38 raw bytes) into RAM from attempt_201211261240_0001_m_000002_0
+2012-11-26 12:41:38,666 INFO org.apache.hadoop.mapred.ReduceTask: Read 38 bytes from map-output for attempt_201211261240_0001_m_000002_0
+2012-11-26 12:41:38,667 INFO org.apache.hadoop.mapred.ReduceTask: Rec #1 from attempt_201211261240_0001_m_000002_0 -> (8, 8) from hadoop-desk.localdomain
+2012-11-26 12:41:40,655 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Scheduled 1 of 8 known outputs (0 slow hosts and 7 dup hosts)
+2012-11-26 12:41:40,661 INFO org.apache.hadoop.mapred.ReduceTask: Shuffling 38 bytes (38 raw bytes) into RAM from attempt_201211261240_0001_m_000005_0
+2012-11-26 12:41:40,661 INFO org.apache.hadoop.mapred.ReduceTask: Read 38 bytes from map-output for attempt_201211261240_0001_m_000005_0
+2012-11-26 12:41:40,661 INFO org.apache.hadoop.mapred.ReduceTask: Rec #1 from attempt_201211261240_0001_m_000005_0 -> (8, 8) from hadoop-desk.localdomain
+2012-11-26 12:41:42,655 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Scheduled 1 of 7 known outputs (0 slow hosts and 6 dup hosts)
+2012-11-26 12:41:42,663 INFO org.apache.hadoop.mapred.ReduceTask: Shuffling 38 bytes (38 raw bytes) into RAM from attempt_201211261240_0001_m_000009_0
+2012-11-26 12:41:42,663 INFO org.apache.hadoop.mapred.ReduceTask: Read 38 bytes from map-output for attempt_201211261240_0001_m_000009_0
+2012-11-26 12:41:42,663 INFO org.apache.hadoop.mapred.ReduceTask: Rec #1 from attempt_201211261240_0001_m_000009_0 -> (8, 8) from hadoop-desk.localdomain
+2012-11-26 12:41:44,656 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Scheduled 1 of 6 known outputs (0 slow hosts and 5 dup hosts)
+2012-11-26 12:41:44,665 INFO org.apache.hadoop.mapred.ReduceTask: Shuffling 38 bytes (38 raw bytes) into RAM from attempt_201211261240_0001_m_000004_0
+2012-11-26 12:41:44,665 INFO org.apache.hadoop.mapred.ReduceTask: Read 38 bytes from map-output for attempt_201211261240_0001_m_000004_0
+2012-11-26 12:41:44,665 INFO org.apache.hadoop.mapred.ReduceTask: Rec #1 from attempt_201211261240_0001_m_000004_0 -> (8, 8) from hadoop-desk.localdomain
+2012-11-26 12:41:46,660 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Scheduled 1 of 5 known outputs (0 slow hosts and 4 dup hosts)
+2012-11-26 12:41:46,736 INFO org.apache.hadoop.mapred.ReduceTask: Shuffling 38 bytes (38 raw bytes) into RAM from attempt_201211261240_0001_m_000006_0
+2012-11-26 12:41:46,736 INFO org.apache.hadoop.mapred.ReduceTask: Read 38 bytes from map-output for attempt_201211261240_0001_m_000006_0
+2012-11-26 12:41:46,736 INFO org.apache.hadoop.mapred.ReduceTask: Rec #1 from attempt_201211261240_0001_m_000006_0 -> (8, 8) from hadoop-desk.localdomain
+2012-11-26 12:41:48,662 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Scheduled 1 of 4 known outputs (0 slow hosts and 3 dup hosts)
+2012-11-26 12:41:48,668 INFO org.apache.hadoop.mapred.ReduceTask: Shuffling 38 bytes (38 raw bytes) into RAM from attempt_201211261240_0001_m_000003_0
+2012-11-26 12:41:48,668 INFO org.apache.hadoop.mapred.ReduceTask: Read 38 bytes from map-output for attempt_201211261240_0001_m_000003_0
+2012-11-26 12:41:48,668 INFO org.apache.hadoop.mapred.ReduceTask: Rec #1 from attempt_201211261240_0001_m_000003_0 -> (8, 8) from hadoop-desk.localdomain
+2012-11-26 12:41:50,666 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Scheduled 1 of 3 known outputs (0 slow hosts and 2 dup hosts)
+2012-11-26 12:41:50,671 INFO org.apache.hadoop.mapred.ReduceTask: Shuffling 38 bytes (38 raw bytes) into RAM from attempt_201211261240_0001_m_000007_0
+2012-11-26 12:41:50,672 INFO org.apache.hadoop.mapred.ReduceTask: Read 38 bytes from map-output for attempt_201211261240_0001_m_000007_0
+2012-11-26 12:41:50,672 INFO org.apache.hadoop.mapred.ReduceTask: Rec #1 from attempt_201211261240_0001_m_000007_0 -> (8, 8) from hadoop-desk.localdomain
+2012-11-26 12:41:52,672 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Scheduled 1 of 2 known outputs (0 slow hosts and 1 dup hosts)
+2012-11-26 12:41:52,677 INFO org.apache.hadoop.mapred.ReduceTask: Shuffling 38 bytes (38 raw bytes) into RAM from attempt_201211261240_0001_m_000001_0
+2012-11-26 12:41:52,678 INFO org.apache.hadoop.mapred.ReduceTask: Read 38 bytes from map-output for attempt_201211261240_0001_m_000001_0
+2012-11-26 12:41:52,678 INFO org.apache.hadoop.mapred.ReduceTask: Rec #1 from attempt_201211261240_0001_m_000001_0 -> (8, 8) from hadoop-desk.localdomain
+2012-11-26 12:41:54,675 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Scheduled 1 of 1 known outputs (0 slow hosts and 0 dup hosts)
+2012-11-26 12:41:54,682 INFO org.apache.hadoop.mapred.ReduceTask: Shuffling 38 bytes (38 raw bytes) into RAM from attempt_201211261240_0001_m_000000_0
+2012-11-26 12:41:54,682 INFO org.apache.hadoop.mapred.ReduceTask: Read 38 bytes from map-output for attempt_201211261240_0001_m_000000_0
+2012-11-26 12:41:54,682 INFO org.apache.hadoop.mapred.ReduceTask: Rec #1 from attempt_201211261240_0001_m_000000_0 -> (8, 8) from hadoop-desk.localdomain
+2012-11-26 12:41:54,722 INFO org.apache.hadoop.mapred.ReduceTask: Initiating in-memory merge with 10 segments...
+2012-11-26 12:41:54,728 INFO org.apache.hadoop.mapred.Merger: Merging 10 sorted segments
+2012-11-26 12:41:54,728 INFO org.apache.hadoop.mapred.Merger: Down to the last merge-pass, with 10 segments left of total size: 380 bytes
+2012-11-26 12:41:54,731 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Merge of the 10 files in-memory complete. Local file is /tmp/hadoop-hadoop-user/mapred/local/taskTracker/jobcache/job_201211261240_0001/attempt_201211261240_0001_r_000000_0/output/map_8.out of size 362
+2012-11-26 12:41:54,731 INFO org.apache.hadoop.mapred.ReduceTask: attempt_201211261240_0001_r_000000_0 Thread waiting: Thread for merging on-disk files
+2012-11-26 12:41:55,678 INFO org.apache.hadoop.mapred.ReduceTask: Closed ram manager
+2012-11-26 12:41:55,679 INFO org.apache.hadoop.mapred.ReduceTask: Interleaved on-disk merge complete: 1 files left.
+2012-11-26 12:41:55,679 INFO org.apache.hadoop.mapred.ReduceTask: In-memory merge complete: 0 files left.
+2012-11-26 12:41:55,680 INFO org.apache.hadoop.mapred.ReduceTask: Initiating final on-disk merge with 1 files
+2012-11-26 12:41:55,680 INFO org.apache.hadoop.mapred.Merger: Merging 1 sorted segments
+2012-11-26 12:41:55,684 INFO org.apache.hadoop.mapred.Merger: Down to the last merge-pass, with 1 segments left of total size: 362 bytes
+2012-11-26 12:41:55,897 INFO org.apache.hadoop.mapred.TaskRunner: Task 'attempt_201211261240_0001_r_000000_0' done.

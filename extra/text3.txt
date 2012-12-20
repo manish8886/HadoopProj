@@ -1,0 +1,165 @@
+
+
+Steam: its Generation and Use
+
+Table of Contents      Previous Chapter
+
+[Pg 165]
+CLASSIFICATION OF FUELS
+(WITH PARTICULAR REFERENCE TO COAL)
+
+Fuels for steam boilers may be classified as solid, liquid or gaseous. Of the solid fuels, anthracite and bituminous coals are the most common, but in this class must also be included lignite, peat, wood, bagasse and the refuse from certain industrial processes such as sawdust, shavings, tan bark and the like. Straw, corn and coffee husks are utilized in isolated cases.
+
+The class of liquid fuels is represented chiefly by petroleum, though coal tar and water-gas tar are used to a limited extent.
+
+Gaseous fuels are limited to natural gas, blast furnace gas and coke oven gas, the first being a natural product and the two latter by-products from industrial processes. Though waste gases from certain processes may be considered as gaseous fuels, inasmuch as the question of combustion does not enter, the methods of utilizing them differ from that for combustible gaseous fuel, and the question will be dealt with separately.
+
+Since coal is by far the most generally used of all fuels, this chapter will be devoted entirely to the formation, composition and distribution of the various grades, from anthracite to peat. The other fuels will be discussed in succeeding chapters and their combustion dealt with in connection with their composition.
+TABLE 35
+
+APPROXIMATE CHEMICAL CHANGES FROM WOOD
+FIBER TO ANTHRACITE COAL Substance	Carbon	Hydrogen	Oxygen
+Wood Fiber 	52.65	5.25	42.10
+Peat 	59.57	5.96	34.47
+Lignite 	66.04	5.27	28.69
+Earthy Brown Coal 	73.18	5.68	21.14
+Bituminous Coal 	75.06	5.84	19.10
+Semi-bituminous Coal	89.29	5.05	  5.66
+Anthracite Coal 	91.58	3.96	  4.46
+
+Formation of Coal—All coals are of vegetable origin and are the remains of prehistoric forests. Destructive distillation due to great pressures and temperatures, has resolved the organic matter into its invariable ultimate constituents, carbon, hydrogen, oxygen and other substances, in varying proportions. The factors of time, depth of beds, disturbance of beds and the intrusion of mineral matter resulting from such disturbances have produced the variation in the degree of evolution from vegetable fiber to hard coal. This variation is shown chiefly in the content of carbon, and Table 35 shows the steps of such variation.
+
+Composition of Coal—The uncombined carbon in coal is known as fixed carbon. Some of the carbon constituent is combined with hydrogen and this, together with other gaseous substances driven off by the application of heat, form that portion of the coal known as volatile matter. The fixed carbon and the volatile matter constitute the combustible. The oxygen and nitrogen contained in the volatile matter are not combustible, but custom has applied this term to that portion of the coal which is dry and free from ash, thus including the oxygen and nitrogen.
+
+The other important substances entering into the composition of coal are moisture and the refractory earths which form the ash. The ash varies in different coals from 3 to 30 per cent and the moisture from 0.75 to 45 per cent of the total weight of the [Pg 166] coal, depending upon the grade and the locality in which it is mined. A large percentage of ash is undesirable as it not only reduces the calorific value of the fuel, but chokes up the air passages in the furnace and through the fuel bed, thus preventing the rapid combustion necessary to high efficiency. If the coal contains an excessive quantity of sulphur, trouble will result from its harmful action on the metal of the boiler where moisture is present, and because it unites with the ash to form a fusible slag or clinker which will choke up the grate bars and form a solid mass in which large quantities of unconsumed carbon may be imbedded.
+
+Moisture in coal may be more detrimental than ash in reducing the temperature of a furnace, as it is non-combustible, absorbs heat both in being evaporated and superheated to the temperature of the furnace gases. In some instances, however, a certain amount of moisture in a bituminous coal produces a mechanical action that assists in the combustion and makes it possible to develop higher capacities than with dry coal.
+
+Classification of Coal—Custom has classified coals in accordance with the varying content of carbon and volatile matter in the combustible. Table 36 gives the approximate percentages of these constituents for the general classes of coals with the corresponding heat values per pound of combustible.
+TABLE 36
+
+APPROXIMATE COMPOSITION AND CALORIFIC VALUE
+OF GENERAL GRADES OF COAL ON BASIS OF COMBUSTIBLE Kind of Coal	Per Cent of Combustible	B. t. u.
+Per Pound of
+Combustible
+Fixed Carbon	Volatile Matter
+Anthracite	97.0 to 92.5	  3.0 to   7.5	14600 to 14800
+Semi-anthracite	92.5 to 87.5	  7.5 to 12.5	14700 to 15500
+Semi-bituminous	87.5 to 75.0	12.5 to 25.0	15500 to 16000
+Bituminous—Eastern	75.0 to 60.0	25.0 to 40.0	14800 to 15300
+Bituminous—Western	65.0 to 50.0	35.0 to 50.0	13500 to 14800
+Lignite	Under 50	Over 50	11000 to 13500
+
+Anthracite—The name anthracite, or hard coal, is applied to those dry coals containing from 3 to 7 per cent volatile matter and which do not swell when burned. True anthracite is hard, compact, lustrous and sometimes iridescent, and is characterized by few joints and clefts. Its specific gravity varies from 1.4 to 1.8. In burning, it kindles slowly and with difficulty, is hard to keep alight, and burns with a short, almost colorless flame, without smoke.
+
+Semi-anthracite coal has less density, hardness and luster than true anthracite, and can be distinguished from it by the fact that when newly fractured it will soot the hands. Its specific gravity is ordinarily about 1.4. It kindles quite readily and burns more freely than the true anthracites.
+
+Semi-bituminous coal is softer than anthracite, contains more volatile hydrocarbons, kindles more easily and burns more rapidly. It is ordinarily free burning, has a high calorific value and is of the highest order for steam generating purposes.
+
+[Pg 167]
+
+Bituminous coals are still softer than those described and contain still more volatile hydrocarbons. The difference between the semi-bituminous and the bituminous coals is an important one, economically. The former have an average heating value per pound of combustible about 6 per cent higher than the latter, and they burn with much less smoke in ordinary furnaces. The distinctive characteristic of the bituminous coals is the emission of yellow flame and smoke when burning. In color they range from pitch black to dark brown, having a resinous luster in the most compact specimens, and a silky luster in such specimens as show traces of vegetable fiber. The specific gravity is ordinarily about 1.3.
+
+Bituminous coals are either of the caking or non-caking class. The former, when heated, fuse and swell in size; the latter burn freely, do not fuse, and are commonly known as free burning coals. Caking coals are rich in volatile hydrocarbons and are valuable in gas manufacture.
+
+Bituminous coals absorb moisture from the atmosphere. The surface moisture can be removed by ordinary drying, but a portion of the water can be removed only by heating the coal to a temperature of about 250 degrees Fahrenheit.
+
+Cannel coal is a variety of bituminous coal, rich in hydrogen and hydrocarbons, and is exceedingly valuable as a gas coal. It has a dull resinous luster and burns with a bright flame without fusing. Cannel coal is seldom used for steam coal, though it is sometimes mixed with semi-bituminous coal where an increased economy at high rates of combustion is desired. The composition of cannel coal is approximately as follows: fixed carbon, 26 to 55 per cent; volatile matter, 42 to 64 per cent; earthy matter, 2 to 14 per cent. Its specific gravity is approximately 1.24.
+
+Lignite is organic matter in the earlier stages of its conversion into coal, and includes all varieties which are intermediate between peat and coal of the older formation. Its specific gravity is low, being 1.2 to 1.23, and when freshly mined it may contain as high as 50 per cent of moisture. Its appearance varies from a light brown, showing a distinctly woody structure, in the poorer varieties, to a black, with a pitchy luster resembling hard coal, in the best varieties. It is non-caking and burns with a bright but slightly smoky flame with moderate heat. It is easily broken, will not stand much handling in transportation, and if exposed to the weather will rapidly disintegrate, which will increase the difficulty of burning it.
+
+Its composition varies over wide limits. The ash may run as low as one per cent and as high as 50 per cent. Its high content of moisture and the large quantity of air necessary for its combustion cause large stack losses. It is distinctly a low-grade fuel and is used almost entirely in the districts where mined, due to its cheapness.
+
+Peat is organic matter in the first stages of its conversion into coal and is found in bogs and similar places. Its moisture content when cut is extremely high, averaging 75 or 80 per cent. It is unsuitable for fuel until dried and even then will contain as much as 30 per cent moisture. Its ash content when dry varies from 3 to 12 per cent. In this country, though large deposits of peat have been found, it has not as yet been found practicable to utilize it for steam generating purposes in competition with coal. In some European countries, however, the peat industry is common.
+
+Distribution—The anthracite coals are, with some unimportant exceptions, confined to five small fields in Eastern Pennsylvania, as shown in the following list. These fields are given in the order of their hardness.
+Lehigh or Eastern Middle Field [Pg 168]	      	Wyoming or Northern Field
+      Green Mountain District	      	            Continued
+      Black Creek District	      	      Pittston District
+      Hazelton District	      	      Wilkesbarre District
+      Beaver Meadow District	      	      Plymouth District
+      Panther Creek District[33]	      	Schuylkill or Southern Field
+Mahanoy or Western Field[34]	      	      East Schuylkill District
+      East Mahanoy District	      	      West Schuylkill District
+      West Mahanoy District	      	      Louberry District
+Wyoming or Northern Field	      	Lykens Valley or Southwestern Field
+      Carbondale District	      	      Lykens Valley District
+      Scranton District	      	      Shamokin District[35]
+
+Anthracite is also found in Pulaski and Wythe Counties, Virginia; along the border of Little Walker Mountain, and in Gunnison County, Colorado. The areas in Virginia are limited, however, while in Colorado the quality varies greatly in neighboring beds and even in the same bed. An anthracite bed in New Mexico was described in 1870 by Dr. R. W. Raymond, formerly United States Mining Commissioner.
+
+Semi-anthracite coals are found in a few small areas in the western part of the anthracite field. The largest of these beds is the Bernice in Sullivan County, Pennsylvania. Mr. William Kent, in his “Steam Boiler Economy”, describes this as follows: “The Bernice semi-anthracite coal basin lies between Beech Creek on the north and Loyalsock Creek on the south. It is six miles long, east and west, and hardly a third of a mile across. An 8-foot vein of coal lies in a bed of 12 feet of coal and slate. The coal of this bed is the dividing line between anthracite and semi-anthracite, and is similar to the coal of the Lykens Valley District. Mine analyses give a range as follows: moisture, 0.65 to 1.97; volatile matter, 3.56 to 9.40; fixed carbon, 82.52 to 89.39; ash, 3.27 to 9.34; sulphur, 0.24 to 1.04.”
+
+Semi-bituminous coals are found on the eastern edge of the great Appalachian Field. Starting with Tioga and Bradford Counties of northern Pennsylvania, the bed runs southwest through Lycoming, Clearfield, Centre, Huntingdon, Cambria, Somerset and Fulton Counties, Pennsylvania; Allegheny County, Maryland; Buchannan, Dickinson, Lee, Russell, Scott, Tazewell and Wise Counties, Virginia; Mercer, McDowell, Fayette, Raleigh and Mineral Counties, West Virginia; and ending in northeastern Tennessee, where a small amount of semi-bituminous is mined.
+
+The largest of the bituminous fields is the Appalachian. Beginning near the northern boundary of Pennsylvania, in the western portion of the State, it extends southwestward through West Virginia, touching Maryland and Virginia on their western borders, passing through southeastern Ohio, eastern Kentucky and central Tennessee, and ending in western Alabama, 900 miles from its northern extremity.
+
+The next bituminous coal producing region to the west is the Northern Field, in north central Michigan. Still further to the west, and second in importance to the [Pg 169] Appalachian Field, is the Eastern Interior Field. This covers, with the exception of the upper northern portion, nearly the entire State of Illinois, southwest Indiana and the western portion of Kentucky.
+
+The Western Field extends through central and southern Iowa, western Missouri, southwestern Kansas, eastern Oklahoma and the west central portion of Arkansas. The Southwestern Field is confined entirely to the north central portion of Texas, in which State there are also two small isolated fields along the Rio Grande River.
+
+The remaining bituminous fields are scattered through what may be termed the Rocky Mountain Region, extending from Montana to New Orleans. A partial list of these fields and their location follows:
+Judith Basin	      	Central Montana
+Bull Mountain Field	      	Central Montana
+Yellowstone Region	      	Southwestern Montana
+Big Horn Basin Region	      	Southern Montana
+Big Horn Basin Region	      	Northern Wyoming
+Black Hills Region	      	Northeastern Wyoming
+Hanna Field	      	Southern Wyoming
+Green River Region	      	Southwestern Wyoming
+Yampa Field	      	Northwestern Colorado
+North Park Field	      	Northern Colorado
+Denver Region	      	North Central Colorado
+Uinta Region	      	Western Colorado
+Uinta Region	      	Eastern Utah
+Southwestern Region	      	Southwestern Utah
+Raton Mountain Region	      	Southern Colorado
+Raton Mountain Region	      	Northern New Mexico
+San Juan River Region	      	Northwestern New Mexico
+Capitan Field	      	Southern New Mexico
+
+Along the Pacific Coast a few small fields are scattered in western California, southwestern Oregon, western and northwestern Washington.
+
+Most of the coals in the above fields are on the border line between bituminous and lignite. They are really a low grade of bituminous coal and are known as sub-bituminous or black lignites.
+
+Lignites—These resemble the brown coals of Europe and are found in the western states, Wyoming, New Mexico, Arizona, Utah, Montana, North Dakota, Nevada, California, Oregon and Washington. Many of the fields given as those containing bituminous coals in the western states also contain true lignite. Lignite is also found in the eastern part of Texas and in Oklahoma.
+
+Alaska Coals—Coal has been found in Alaska and undoubtedly is of great value, though the extent and character of the fields have probably been exaggerated. Great quantities of lignite are known to exist, and in quality the coal ranges in character from lignite to anthracite. There are at present, however, only two fields of high-grade coals known, these being the Bering River Field, near Controllers Bay, and the Matanuska Field, at the head of Cooks Inlet. Both of these fields are known to contain both anthracite and high-grade bituminous coals, though as yet they cannot be said to have been opened up.
+
+Weathering of Coal—The storage of coal has become within the last few years to a certain extent a necessity due to market conditions, danger of labor difficulties at the mines and in the railroads, and the crowding of transportation facilities. [Pg 170] The first cause is probably the most important, and this is particularly true of anthracite coals where a sliding scale of prices is used according to the season of the year. While market conditions serve as one of the principal reasons for coal storage, most power plants and manufacturing plants feel compelled to protect their coal supply from the danger of strikes, car shortages and the like, and it is customary for large power plants, railroads and coal companies themselves, to store bituminous coal. Naval coaling stations are also an example of what is done along these lines.
+
+Anthracite is the nearest approach to the ideal coal for storing. It is not subject to spontaneous ignition, and for this reason is unlimited in the amount that may be stored in one pile. With bituminous coals, however, the case is different. Most bituminous coals will ignite if placed in large enough piles and all suffer more or less from disintegration. Coal producers only store such coals as are least liable to ignite, and which will stand rehandling for shipment.
+
+The changes which take place in stored coal are of two kinds: 1st, the oxidization of the inorganic matter such as pyrites; and 2nd, the direct oxidization of the organic matter of the actual coal.
+
+The first change will result in an increased volume of the coal, and sometimes in an increased weight, and a marked disintegration. The changes due to direct oxidization of the coal substances usually cannot be detected by the eye, but as they involve the oxidization of the carbon and available hydrogen and the absorption of the oxygen by unsaturated hydrocarbons, they are the chief cause of the weathering losses in heat value. Numerous experiments have led to the conclusion that this is also the cause for spontaneous combustion.
+
+Experiments to show loss in calorific heat values due to weathering indicate that such loss may be as high as 10 per cent when the coal is stored in the air, and 8.75 per cent when stored under water. It would appear that the higher the volatile content of the coal, the greater will be the loss in calorific value and the more subject to spontaneous ignition.
+
+Some experiments made by Messrs. S. W. Parr and W. F. Wheeler, published in 1909 by the Experiment Station of the University of Illinois, indicate that coals of the nature found in Illinois and neighboring states are not affected seriously during storage from the standpoint of weight and heating value, the latter loss averaging about 3½ per cent for the first year of storage. They found that the losses due to disintegration and to spontaneous ignition were of greater importance. Their conclusions agree with those deduced from the other experiments, viz., that the storing of a larger size coal than that which is to be used, will overcome to a certain extent the objection to disintegration, and that the larger sizes, besides being advantageous in respect to disintegration, are less liable to spontaneous ignition. Storage under water will, of course, entirely prevent any fire loss and, to a great extent, will stop disintegration and reduce the calorific losses to a minimum.
+
+To minimize the danger of spontaneous ignition in storing coal, the piles should be thoroughly ventilated.
+
+Pulverized Fuels—Considerable experimental work has been done with pulverized coal, utilizing either coal dust or pulverizing such coal as is too small to be burned in other ways. If satisfactorily fed to the furnace, it would appear to have several advantages. The dust burned in suspension would be more completely consumed than is the case with the solid coals, the production of smoke would be [Pg 171] minimized, and the process would admit of an adjustment of the air supply to a point very close to the amount theoretically required. This is due to the fact that in burning there is an intimate mixture of the air and fuel. The principal objections have been in the inability to introduce the pulverized fuel into the furnace uniformly, the difficulty of reducing the fuel to the same degree of fineness, liability of explosion in the furnace due to improper mixture with the air, and the decreased capacity and efficiency resulting from the difficulty of keeping tube surfaces clean.
+
+Pressed Fuels—In this class are those composed of the dust of some suitable combustible, pressed and cemented together by a substance possessing binding and in most cases inflammable properties. Such fuels, known as briquettes, are extensively used in foreign countries and consist of carbon or soft coal, too small to be burned in the ordinary way, mixed usually with pitch or coal tar. Much experimenting has been done in this country in briquetting fuels, the government having taken an active interest in the question, but as yet this class of fuel has not come into common use as the cost and difficulty of manufacture and handling have made it impossible to place it in the market at a price to successfully compete with coal.
+
+Coke is a porous product consisting almost entirely of carbon remaining after certain manufacturing processes have distilled off the hydrocarbon gases of the fuel used. It is produced, first, from gas coal distilled in gas retorts; second, from gas or ordinary bituminous coals burned in special furnaces called coke ovens; and third, from petroleum by carrying the distillation of the residuum to a red heat.
+
+Coke is a smokeless fuel. It readily absorbs moisture from the atmosphere and if not kept under cover its moisture content may be as much as 20 per cent of its own weight.
+
+Gas-house coke is generally softer and more porous than oven coke, ignites more readily, and requires less draft for its combustion.
+[Pg 172] [Pl 172]
+
+Table of Contents      Next Chapter
+
+ 
+FOOTNOTES
+
+[33] The Panther Creek District forms a part of what is known as the Southern Field; in the matter of hardness, however, these coals are more nearly akin to Lehigh coals.
+
+[34] Sometimes called Western Middle or Northern Schuylkill Field.
+
+[35] Geographically, the Shamokin District is part of the Western Middle Mahanoy Field, but the coals found in this section resemble more closely those of the Wyoming Field.
+
+Table of Contents      Next Chapter

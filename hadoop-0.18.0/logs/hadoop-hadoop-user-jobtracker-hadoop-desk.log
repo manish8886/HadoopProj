@@ -1,0 +1,90 @@
+2012-11-26 12:40:51,843 INFO org.apache.hadoop.mapred.JobTracker: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting JobTracker
+STARTUP_MSG:   host = hadoop-desk/127.0.1.1
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 0.18.0
+STARTUP_MSG:   build = http://svn.apache.org/repos/asf/hadoop/core/branches/branch-0.18 -r 686010; compiled by 'hadoopqa' on Thu Aug 14 19:48:33 UTC 2008
+************************************************************/
+2012-11-26 12:40:51,974 INFO org.apache.hadoop.ipc.metrics.RpcMetrics: Initializing RPC Metrics with hostName=JobTracker, port=9001
+2012-11-26 12:40:51,979 INFO org.apache.hadoop.ipc.Server: IPC Server Responder: starting
+2012-11-26 12:40:51,981 INFO org.apache.hadoop.ipc.Server: IPC Server listener on 9001: starting
+2012-11-26 12:40:51,981 INFO org.apache.hadoop.ipc.Server: IPC Server handler 0 on 9001: starting
+2012-11-26 12:40:51,981 INFO org.apache.hadoop.ipc.Server: IPC Server handler 1 on 9001: starting
+2012-11-26 12:40:51,981 INFO org.apache.hadoop.ipc.Server: IPC Server handler 2 on 9001: starting
+2012-11-26 12:40:51,982 INFO org.apache.hadoop.ipc.Server: IPC Server handler 3 on 9001: starting
+2012-11-26 12:40:51,982 INFO org.apache.hadoop.ipc.Server: IPC Server handler 4 on 9001: starting
+2012-11-26 12:40:51,982 INFO org.apache.hadoop.ipc.Server: IPC Server handler 5 on 9001: starting
+2012-11-26 12:40:51,982 INFO org.apache.hadoop.ipc.Server: IPC Server handler 6 on 9001: starting
+2012-11-26 12:40:51,982 INFO org.apache.hadoop.ipc.Server: IPC Server handler 7 on 9001: starting
+2012-11-26 12:40:51,982 INFO org.apache.hadoop.ipc.Server: IPC Server handler 8 on 9001: starting
+2012-11-26 12:40:52,005 INFO org.apache.hadoop.ipc.Server: IPC Server handler 9 on 9001: starting
+2012-11-26 12:40:52,073 INFO org.mortbay.util.Credential: Checking Resource aliases
+2012-11-26 12:40:52,152 INFO org.mortbay.http.HttpServer: Version Jetty/5.1.4
+2012-11-26 12:40:52,153 INFO org.mortbay.util.Container: Started HttpContext[/static,/static]
+2012-11-26 12:40:52,153 INFO org.mortbay.util.Container: Started HttpContext[/logs,/logs]
+2012-11-26 12:40:52,427 INFO org.mortbay.util.Container: Started org.mortbay.jetty.servlet.WebApplicationHandler@194d372
+2012-11-26 12:40:52,486 INFO org.mortbay.util.Container: Started WebApplicationContext[/,/]
+2012-11-26 12:40:52,490 INFO org.mortbay.http.SocketListener: Started SocketListener on 0.0.0.0:50030
+2012-11-26 12:40:52,490 INFO org.mortbay.util.Container: Started org.mortbay.jetty.Server@198a455
+2012-11-26 12:40:52,492 INFO org.apache.hadoop.metrics.jvm.JvmMetrics: Initializing JVM Metrics with processName=JobTracker, sessionId=
+2012-11-26 12:40:52,493 INFO org.apache.hadoop.mapred.JobTracker: JobTracker up at: 9001
+2012-11-26 12:40:52,493 INFO org.apache.hadoop.mapred.JobTracker: JobTracker webserver: 50030
+2012-11-26 12:40:52,695 INFO org.apache.hadoop.mapred.JobTracker: Starting RUNNING
+2012-11-26 12:40:53,812 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/hadoop-desk.localdomain
+2012-11-26 12:41:23,401 INFO org.apache.hadoop.mapred.JobInProgress: Split info for job:job_201211261240_0001
+2012-11-26 12:41:23,402 INFO org.apache.hadoop.mapred.JobInProgress: tip:task_201211261240_0001_m_000000 has split on node:/default-rack/hadoop-desk.localdomain
+2012-11-26 12:41:23,402 INFO org.apache.hadoop.mapred.JobInProgress: tip:task_201211261240_0001_m_000001 has split on node:/default-rack/hadoop-desk.localdomain
+2012-11-26 12:41:23,402 INFO org.apache.hadoop.mapred.JobInProgress: tip:task_201211261240_0001_m_000002 has split on node:/default-rack/hadoop-desk.localdomain
+2012-11-26 12:41:23,402 INFO org.apache.hadoop.mapred.JobInProgress: tip:task_201211261240_0001_m_000003 has split on node:/default-rack/hadoop-desk.localdomain
+2012-11-26 12:41:23,402 INFO org.apache.hadoop.mapred.JobInProgress: tip:task_201211261240_0001_m_000004 has split on node:/default-rack/hadoop-desk.localdomain
+2012-11-26 12:41:23,402 INFO org.apache.hadoop.mapred.JobInProgress: tip:task_201211261240_0001_m_000005 has split on node:/default-rack/hadoop-desk.localdomain
+2012-11-26 12:41:23,402 INFO org.apache.hadoop.mapred.JobInProgress: tip:task_201211261240_0001_m_000006 has split on node:/default-rack/hadoop-desk.localdomain
+2012-11-26 12:41:23,402 INFO org.apache.hadoop.mapred.JobInProgress: tip:task_201211261240_0001_m_000007 has split on node:/default-rack/hadoop-desk.localdomain
+2012-11-26 12:41:23,403 INFO org.apache.hadoop.mapred.JobInProgress: tip:task_201211261240_0001_m_000008 has split on node:/default-rack/hadoop-desk.localdomain
+2012-11-26 12:41:23,403 INFO org.apache.hadoop.mapred.JobInProgress: tip:task_201211261240_0001_m_000009 has split on node:/default-rack/hadoop-desk.localdomain
+2012-11-26 12:41:23,828 INFO org.apache.hadoop.mapred.JobInProgress: Choosing data-local task task_201211261240_0001_m_000000
+2012-11-26 12:41:23,875 INFO org.apache.hadoop.mapred.JobTracker: Adding task 'attempt_201211261240_0001_m_000000_0' to tip task_201211261240_0001_m_000000, for tracker 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:24,269 INFO org.apache.hadoop.mapred.JobInProgress: Choosing data-local task task_201211261240_0001_m_000001
+2012-11-26 12:41:24,270 INFO org.apache.hadoop.mapred.JobTracker: Adding task 'attempt_201211261240_0001_m_000001_0' to tip task_201211261240_0001_m_000001, for tracker 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:27,502 INFO org.apache.hadoop.mapred.JobInProgress: Task 'attempt_201211261240_0001_m_000000_0' has completed task_201211261240_0001_m_000000 successfully.
+2012-11-26 12:41:27,504 INFO org.apache.hadoop.mapred.JobInProgress: Task 'attempt_201211261240_0001_m_000001_0' has completed task_201211261240_0001_m_000001 successfully.
+2012-11-26 12:41:27,505 INFO org.apache.hadoop.mapred.JobInProgress: Choosing data-local task task_201211261240_0001_m_000002
+2012-11-26 12:41:27,506 INFO org.apache.hadoop.mapred.JobTracker: Adding task 'attempt_201211261240_0001_m_000002_0' to tip task_201211261240_0001_m_000002, for tracker 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:27,594 INFO org.apache.hadoop.mapred.JobInProgress: Choosing data-local task task_201211261240_0001_m_000003
+2012-11-26 12:41:27,595 INFO org.apache.hadoop.mapred.JobTracker: Adding task 'attempt_201211261240_0001_m_000003_0' to tip task_201211261240_0001_m_000003, for tracker 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:29,608 INFO org.apache.hadoop.mapred.JobInProgress: Task 'attempt_201211261240_0001_m_000002_0' has completed task_201211261240_0001_m_000002 successfully.
+2012-11-26 12:41:29,609 INFO org.apache.hadoop.mapred.JobInProgress: Task 'attempt_201211261240_0001_m_000003_0' has completed task_201211261240_0001_m_000003 successfully.
+2012-11-26 12:41:29,609 INFO org.apache.hadoop.mapred.JobInProgress: Choosing data-local task task_201211261240_0001_m_000004
+2012-11-26 12:41:29,610 INFO org.apache.hadoop.mapred.JobTracker: Adding task 'attempt_201211261240_0001_m_000004_0' to tip task_201211261240_0001_m_000004, for tracker 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:29,674 INFO org.apache.hadoop.mapred.JobInProgress: Choosing data-local task task_201211261240_0001_m_000005
+2012-11-26 12:41:29,674 INFO org.apache.hadoop.mapred.JobTracker: Adding task 'attempt_201211261240_0001_m_000005_0' to tip task_201211261240_0001_m_000005, for tracker 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:31,735 INFO org.apache.hadoop.mapred.JobInProgress: Task 'attempt_201211261240_0001_m_000004_0' has completed task_201211261240_0001_m_000004 successfully.
+2012-11-26 12:41:31,736 INFO org.apache.hadoop.mapred.JobInProgress: Task 'attempt_201211261240_0001_m_000005_0' has completed task_201211261240_0001_m_000005 successfully.
+2012-11-26 12:41:31,737 INFO org.apache.hadoop.mapred.JobInProgress: Choosing data-local task task_201211261240_0001_m_000006
+2012-11-26 12:41:31,737 INFO org.apache.hadoop.mapred.JobTracker: Adding task 'attempt_201211261240_0001_m_000006_0' to tip task_201211261240_0001_m_000006, for tracker 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:31,828 INFO org.apache.hadoop.mapred.JobInProgress: Choosing data-local task task_201211261240_0001_m_000007
+2012-11-26 12:41:31,829 INFO org.apache.hadoop.mapred.JobTracker: Adding task 'attempt_201211261240_0001_m_000007_0' to tip task_201211261240_0001_m_000007, for tracker 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:33,840 INFO org.apache.hadoop.mapred.JobInProgress: Task 'attempt_201211261240_0001_m_000006_0' has completed task_201211261240_0001_m_000006 successfully.
+2012-11-26 12:41:33,841 INFO org.apache.hadoop.mapred.JobInProgress: Task 'attempt_201211261240_0001_m_000007_0' has completed task_201211261240_0001_m_000007 successfully.
+2012-11-26 12:41:33,847 INFO org.apache.hadoop.mapred.JobInProgress: Choosing data-local task task_201211261240_0001_m_000008
+2012-11-26 12:41:33,848 INFO org.apache.hadoop.mapred.JobTracker: Adding task 'attempt_201211261240_0001_m_000008_0' to tip task_201211261240_0001_m_000008, for tracker 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:33,984 INFO org.apache.hadoop.mapred.JobInProgress: Choosing data-local task task_201211261240_0001_m_000009
+2012-11-26 12:41:33,984 INFO org.apache.hadoop.mapred.JobTracker: Adding task 'attempt_201211261240_0001_m_000009_0' to tip task_201211261240_0001_m_000009, for tracker 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:36,023 INFO org.apache.hadoop.mapred.JobInProgress: Task 'attempt_201211261240_0001_m_000008_0' has completed task_201211261240_0001_m_000008 successfully.
+2012-11-26 12:41:36,024 INFO org.apache.hadoop.mapred.JobInProgress: Task 'attempt_201211261240_0001_m_000009_0' has completed task_201211261240_0001_m_000009 successfully.
+2012-11-26 12:41:36,028 INFO org.apache.hadoop.mapred.JobTracker: Adding task 'attempt_201211261240_0001_r_000000_0' to tip task_201211261240_0001_r_000000, for tracker 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:56,142 INFO org.apache.hadoop.mapred.TaskRunner: Saved output of task 'attempt_201211261240_0001_r_000000_0' to hdfs://192.168.0.138:9000/user/hadoop-user/test-mini-mr/out
+2012-11-26 12:41:56,142 INFO org.apache.hadoop.mapred.JobInProgress: Task 'attempt_201211261240_0001_r_000000_0' has completed task_201211261240_0001_r_000000 successfully.
+2012-11-26 12:41:56,172 INFO org.apache.hadoop.mapred.JobInProgress: Job job_201211261240_0001 has completed successfully.
+2012-11-26 12:41:56,788 INFO org.apache.hadoop.mapred.JobTracker: Removed completed task 'attempt_201211261240_0001_m_000000_0' from 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:56,788 INFO org.apache.hadoop.mapred.JobTracker: Removed completed task 'attempt_201211261240_0001_m_000001_0' from 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:56,788 INFO org.apache.hadoop.mapred.JobTracker: Removed completed task 'attempt_201211261240_0001_m_000002_0' from 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:56,788 INFO org.apache.hadoop.mapred.JobTracker: Removed completed task 'attempt_201211261240_0001_m_000003_0' from 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:56,788 INFO org.apache.hadoop.mapred.JobTracker: Removed completed task 'attempt_201211261240_0001_m_000004_0' from 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:56,788 INFO org.apache.hadoop.mapred.JobTracker: Removed completed task 'attempt_201211261240_0001_m_000005_0' from 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:56,789 INFO org.apache.hadoop.mapred.JobTracker: Removed completed task 'attempt_201211261240_0001_m_000006_0' from 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:56,789 INFO org.apache.hadoop.mapred.JobTracker: Removed completed task 'attempt_201211261240_0001_m_000007_0' from 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:56,789 INFO org.apache.hadoop.mapred.JobTracker: Removed completed task 'attempt_201211261240_0001_m_000008_0' from 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:56,789 INFO org.apache.hadoop.mapred.JobTracker: Removed completed task 'attempt_201211261240_0001_m_000009_0' from 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'
+2012-11-26 12:41:56,790 INFO org.apache.hadoop.mapred.JobTracker: Removed completed task 'attempt_201211261240_0001_r_000000_0' from 'tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664'

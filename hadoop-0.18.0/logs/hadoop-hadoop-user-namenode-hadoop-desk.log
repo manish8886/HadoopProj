@@ -1,0 +1,103 @@
+2012-11-26 12:40:48,119 INFO org.apache.hadoop.dfs.NameNode: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting NameNode
+STARTUP_MSG:   host = hadoop-desk/127.0.1.1
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 0.18.0
+STARTUP_MSG:   build = http://svn.apache.org/repos/asf/hadoop/core/branches/branch-0.18 -r 686010; compiled by 'hadoopqa' on Thu Aug 14 19:48:33 UTC 2008
+************************************************************/
+2012-11-26 12:40:48,247 INFO org.apache.hadoop.ipc.metrics.RpcMetrics: Initializing RPC Metrics with hostName=NameNode, port=9000
+2012-11-26 12:40:48,273 INFO org.apache.hadoop.dfs.NameNode: Namenode up at: 192.168.0.138/192.168.0.138:9000
+2012-11-26 12:40:48,276 INFO org.apache.hadoop.metrics.jvm.JvmMetrics: Initializing JVM Metrics with processName=NameNode, sessionId=null
+2012-11-26 12:40:48,281 INFO org.apache.hadoop.dfs.NameNodeMetrics: Initializing NameNodeMeterics using context object:org.apache.hadoop.metrics.spi.NullContext
+2012-11-26 12:40:48,340 INFO org.apache.hadoop.fs.FSNamesystem: fsOwner=hadoop-user,hadoop-user,adm,dialout,cdrom,floppy,audio,dip,video,plugdev,fuse,lpadmin,admin
+2012-11-26 12:40:48,340 INFO org.apache.hadoop.fs.FSNamesystem: supergroup=supergroup
+2012-11-26 12:40:48,340 INFO org.apache.hadoop.fs.FSNamesystem: isPermissionEnabled=true
+2012-11-26 12:40:48,347 INFO org.apache.hadoop.dfs.FSNamesystemMetrics: Initializing FSNamesystemMeterics using context object:org.apache.hadoop.metrics.spi.NullContext
+2012-11-26 12:40:48,348 INFO org.apache.hadoop.fs.FSNamesystem: Registered FSNamesystemStatusMBean
+2012-11-26 12:40:48,383 INFO org.apache.hadoop.dfs.Storage: Number of files = 6
+2012-11-26 12:40:48,390 INFO org.apache.hadoop.dfs.Storage: Number of files under construction = 0
+2012-11-26 12:40:48,390 INFO org.apache.hadoop.dfs.Storage: Image file of size 434 loaded in 0 seconds.
+2012-11-26 12:40:48,392 INFO org.apache.hadoop.dfs.Storage: Edits file edits of size 141 edits # 3 loaded in 0 seconds.
+2012-11-26 12:40:48,403 INFO org.apache.hadoop.dfs.Storage: Image file of size 434 saved in 0 seconds.
+2012-11-26 12:40:48,425 INFO org.apache.hadoop.fs.FSNamesystem: Finished loading FSImage in 103 msecs
+2012-11-26 12:40:48,427 INFO org.apache.hadoop.dfs.StateChange: STATE* Leaving safe mode after 0 secs.
+2012-11-26 12:40:48,427 INFO org.apache.hadoop.dfs.StateChange: STATE* Network topology has 0 racks and 0 datanodes
+2012-11-26 12:40:48,427 INFO org.apache.hadoop.dfs.StateChange: STATE* UnderReplicatedBlocks has 0 blocks
+2012-11-26 12:40:48,515 INFO org.mortbay.util.Credential: Checking Resource aliases
+2012-11-26 12:40:48,585 INFO org.mortbay.http.HttpServer: Version Jetty/5.1.4
+2012-11-26 12:40:48,586 INFO org.mortbay.util.Container: Started HttpContext[/static,/static]
+2012-11-26 12:40:48,586 INFO org.mortbay.util.Container: Started HttpContext[/logs,/logs]
+2012-11-26 12:40:48,923 INFO org.mortbay.util.Container: Started org.mortbay.jetty.servlet.WebApplicationHandler@1829e6f
+2012-11-26 12:40:48,965 INFO org.mortbay.util.Container: Started WebApplicationContext[/,/]
+2012-11-26 12:40:48,980 INFO org.mortbay.http.SocketListener: Started SocketListener on 0.0.0.0:50070
+2012-11-26 12:40:48,980 INFO org.mortbay.util.Container: Started org.mortbay.jetty.Server@1549f94
+2012-11-26 12:40:48,980 INFO org.apache.hadoop.fs.FSNamesystem: Web-server up at: 0.0.0.0:50070
+2012-11-26 12:40:48,980 INFO org.apache.hadoop.ipc.Server: IPC Server Responder: starting
+2012-11-26 12:40:48,982 INFO org.apache.hadoop.ipc.Server: IPC Server listener on 9000: starting
+2012-11-26 12:40:48,982 INFO org.apache.hadoop.ipc.Server: IPC Server handler 0 on 9000: starting
+2012-11-26 12:40:48,983 INFO org.apache.hadoop.ipc.Server: IPC Server handler 1 on 9000: starting
+2012-11-26 12:40:48,983 INFO org.apache.hadoop.ipc.Server: IPC Server handler 2 on 9000: starting
+2012-11-26 12:40:49,006 INFO org.apache.hadoop.ipc.Server: IPC Server handler 4 on 9000: starting
+2012-11-26 12:40:49,006 INFO org.apache.hadoop.ipc.Server: IPC Server handler 3 on 9000: starting
+2012-11-26 12:40:49,006 INFO org.apache.hadoop.ipc.Server: IPC Server handler 5 on 9000: starting
+2012-11-26 12:40:49,006 INFO org.apache.hadoop.ipc.Server: IPC Server handler 6 on 9000: starting
+2012-11-26 12:40:49,006 INFO org.apache.hadoop.ipc.Server: IPC Server handler 7 on 9000: starting
+2012-11-26 12:40:49,007 INFO org.apache.hadoop.ipc.Server: IPC Server handler 8 on 9000: starting
+2012-11-26 12:40:49,008 INFO org.apache.hadoop.ipc.Server: IPC Server handler 9 on 9000: starting
+2012-11-26 12:40:50,237 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.registerDatanode: node registration from 192.168.0.138:50010 storage DS-2082516166-127.0.1.1-50010-1221239986331
+2012-11-26 12:40:50,240 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.0.138:50010
+2012-11-26 12:41:22,278 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/in/part0. blk_-4395039609527366371_1015
+2012-11-26 12:41:22,351 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_-4395039609527366371_1015 size 118
+2012-11-26 12:41:22,373 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/in/part1. blk_-5907099243317033624_1016
+2012-11-26 12:41:22,377 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_-5907099243317033624_1016 size 118
+2012-11-26 12:41:22,402 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/in/part2. blk_-7554617967786994552_1017
+2012-11-26 12:41:22,406 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_-7554617967786994552_1017 size 118
+2012-11-26 12:41:22,432 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/in/part3. blk_549691261430377870_1018
+2012-11-26 12:41:22,436 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_549691261430377870_1018 size 118
+2012-11-26 12:41:22,467 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/in/part4. blk_-2965433940930815000_1019
+2012-11-26 12:41:22,472 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_-2965433940930815000_1019 size 118
+2012-11-26 12:41:22,494 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/in/part5. blk_88793686902111154_1020
+2012-11-26 12:41:22,497 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_88793686902111154_1020 size 118
+2012-11-26 12:41:22,523 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/in/part6. blk_-4151043159911584487_1021
+2012-11-26 12:41:22,528 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_-4151043159911584487_1021 size 118
+2012-11-26 12:41:22,562 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/in/part7. blk_441412481489033323_1022
+2012-11-26 12:41:22,567 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_441412481489033323_1022 size 118
+2012-11-26 12:41:22,602 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/in/part8. blk_-5321023801097653059_1023
+2012-11-26 12:41:22,609 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_-5321023801097653059_1023 size 118
+2012-11-26 12:41:22,635 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/in/part9. blk_-5937986642478491308_1024
+2012-11-26 12:41:22,640 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_-5937986642478491308_1024 size 118
+2012-11-26 12:41:22,756 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /hadoop/mapred/system/job_201211261240_0001/job.jar. blk_5595691402496737852_1025
+2012-11-26 12:41:22,764 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_5595691402496737852_1025 size 91176
+2012-11-26 12:41:22,776 INFO org.apache.hadoop.fs.FSNamesystem: Increasing replication for file /hadoop/mapred/system/job_201211261240_0001/job.jar. New replication is 10
+2012-11-26 12:41:22,855 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /hadoop/mapred/system/job_201211261240_0001/job.split. blk_-742665579162129753_1026
+2012-11-26 12:41:22,860 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_-742665579162129753_1026 size 1465
+2012-11-26 12:41:23,075 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /hadoop/mapred/system/job_201211261240_0001/job.xml. blk_-6417101178011778036_1027
+2012-11-26 12:41:23,082 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_-6417101178011778036_1027 size 13515
+2012-11-26 12:41:23,309 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/out/_logs/history/192.168.0.138_1353962452112_job_201211261240_0001_conf.xml. blk_6015683497488887588_1029
+2012-11-26 12:41:23,353 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_6015683497488887588_1029 size 13512
+2012-11-26 12:41:55,690 INFO org.apache.hadoop.fs.FSNamesystem: Number of transactions: 60 Total time for transactions(ms): 0 Number of syncs: 41 SyncTimes(ms): 378 
+2012-11-26 12:41:55,815 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/out/reduce-out. blk_3483723855992276017_1031
+2012-11-26 12:41:55,849 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_3483723855992276017_1031 size 118
+2012-11-26 12:41:55,865 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/out/_temporary/_attempt_201211261240_0001_r_000000_0/part-00000. blk_4773008115451968055_1031
+2012-11-26 12:41:55,870 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_4773008115451968055_1031 size 94
+2012-11-26 12:41:56,152 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_5595691402496737852 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,152 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_-742665579162129753 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,152 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_-6417101178011778036 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,176 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/hadoop-user/test-mini-mr/out/_logs/history/192.168.0.138_1353962452112_job_201211261240_0001_hadoop-user_test-mini-mr. blk_-6554005864372410105_1031
+2012-11-26 12:41:56,184 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 192.168.0.138:50010 is added to blk_-6554005864372410105_1031 size 12244
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_-4395039609527366371 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_-5907099243317033624 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_-7554617967786994552 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_549691261430377870 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_-2965433940930815000 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_88793686902111154 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_-4151043159911584487 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_441412481489033323 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_-5321023801097653059 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_-5937986642478491308 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_6015683497488887588 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_-6554005864372410105 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_4773008115451968055 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:56,642 INFO org.apache.hadoop.dfs.StateChange: BLOCK* NameSystem.delete: blk_3483723855992276017 is added to invalidSet of 192.168.0.138:50010
+2012-11-26 12:41:57,476 INFO org.apache.hadoop.dfs.StateChange: BLOCK* ask 192.168.0.138:50010 to delete  blk_-7554617967786994552_1017 blk_-6554005864372410105_1031 blk_441412481489033323_1022 blk_4773008115451968055_1031 blk_-4395039609527366371_1015 blk_549691261430377870_1018 blk_-6417101178011778036_1027 blk_88793686902111154_1020 blk_-2965433940930815000_1019 blk_-5937986642478491308_1024 blk_-742665579162129753_1026 blk_-4151043159911584487_1021 blk_5595691402496737852_1025 blk_-5907099243317033624_1016 blk_-5321023801097653059_1023 blk_3483723855992276017_1031 blk_6015683497488887588_1029

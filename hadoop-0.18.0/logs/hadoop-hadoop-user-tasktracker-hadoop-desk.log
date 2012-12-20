@@ -1,0 +1,85 @@
+2012-11-26 12:40:53,112 INFO org.apache.hadoop.mapred.TaskTracker: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting TaskTracker
+STARTUP_MSG:   host = hadoop-desk/127.0.1.1
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 0.18.0
+STARTUP_MSG:   build = http://svn.apache.org/repos/asf/hadoop/core/branches/branch-0.18 -r 686010; compiled by 'hadoopqa' on Thu Aug 14 19:48:33 UTC 2008
+************************************************************/
+2012-11-26 12:40:53,289 INFO org.mortbay.util.Credential: Checking Resource aliases
+2012-11-26 12:40:53,369 INFO org.mortbay.http.HttpServer: Version Jetty/5.1.4
+2012-11-26 12:40:53,370 INFO org.mortbay.util.Container: Started HttpContext[/static,/static]
+2012-11-26 12:40:53,370 INFO org.mortbay.util.Container: Started HttpContext[/logs,/logs]
+2012-11-26 12:40:53,638 INFO org.mortbay.util.Container: Started org.mortbay.jetty.servlet.WebApplicationHandler@134e4fb
+2012-11-26 12:40:53,674 INFO org.mortbay.util.Container: Started WebApplicationContext[/,/]
+2012-11-26 12:40:53,677 INFO org.mortbay.http.SocketListener: Started SocketListener on 0.0.0.0:50060
+2012-11-26 12:40:53,677 INFO org.mortbay.util.Container: Started org.mortbay.jetty.Server@1ded0fd
+2012-11-26 12:40:53,681 INFO org.apache.hadoop.metrics.jvm.JvmMetrics: Initializing JVM Metrics with processName=TaskTracker, sessionId=
+2012-11-26 12:40:53,701 INFO org.apache.hadoop.ipc.metrics.RpcMetrics: Initializing RPC Metrics with hostName=TaskTracker, port=46664
+2012-11-26 12:40:53,751 INFO org.apache.hadoop.ipc.Server: IPC Server Responder: starting
+2012-11-26 12:40:53,752 INFO org.apache.hadoop.ipc.Server: IPC Server listener on 46664: starting
+2012-11-26 12:40:53,752 INFO org.apache.hadoop.ipc.Server: IPC Server handler 0 on 46664: starting
+2012-11-26 12:40:53,753 INFO org.apache.hadoop.mapred.TaskTracker: TaskTracker up at: localhost/127.0.0.1:46664
+2012-11-26 12:40:53,753 INFO org.apache.hadoop.mapred.TaskTracker: Starting tracker tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664
+2012-11-26 12:40:53,763 INFO org.apache.hadoop.ipc.Server: IPC Server handler 1 on 46664: starting
+2012-11-26 12:40:53,805 INFO org.apache.hadoop.mapred.TaskTracker: Starting thread: Map-events fetcher for all reduce tasks on tracker_hadoop-desk.localdomain:localhost/127.0.0.1:46664
+2012-11-26 12:41:23,910 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction: attempt_201211261240_0001_m_000000_0
+2012-11-26 12:41:24,271 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction: attempt_201211261240_0001_m_000001_0
+2012-11-26 12:41:27,011 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_m_000000_0 1.0% Generated 9001 samples.
+2012-11-26 12:41:27,014 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201211261240_0001_m_000000_0 is done.
+2012-11-26 12:41:27,027 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_m_000001_0 1.0% Generated 9001 samples.
+2012-11-26 12:41:27,029 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201211261240_0001_m_000001_0 is done.
+2012-11-26 12:41:27,507 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction: attempt_201211261240_0001_m_000002_0
+2012-11-26 12:41:27,596 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction: attempt_201211261240_0001_m_000003_0
+2012-11-26 12:41:29,177 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_m_000002_0 1.0% Generated 9001 samples.
+2012-11-26 12:41:29,180 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201211261240_0001_m_000002_0 is done.
+2012-11-26 12:41:29,195 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_m_000003_0 1.0% Generated 9001 samples.
+2012-11-26 12:41:29,199 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201211261240_0001_m_000003_0 is done.
+2012-11-26 12:41:29,612 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction: attempt_201211261240_0001_m_000004_0
+2012-11-26 12:41:29,676 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction: attempt_201211261240_0001_m_000005_0
+2012-11-26 12:41:31,142 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_m_000004_0 1.0% Generated 9001 samples.
+2012-11-26 12:41:31,145 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201211261240_0001_m_000004_0 is done.
+2012-11-26 12:41:31,175 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_m_000005_0 1.0% Generated 9001 samples.
+2012-11-26 12:41:31,177 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201211261240_0001_m_000005_0 is done.
+2012-11-26 12:41:31,746 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction: attempt_201211261240_0001_m_000006_0
+2012-11-26 12:41:31,844 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction: attempt_201211261240_0001_m_000007_0
+2012-11-26 12:41:33,333 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_m_000006_0 1.0% Generated 9001 samples.
+2012-11-26 12:41:33,336 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201211261240_0001_m_000006_0 is done.
+2012-11-26 12:41:33,351 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_m_000007_0 1.0% Generated 9001 samples.
+2012-11-26 12:41:33,353 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201211261240_0001_m_000007_0 is done.
+2012-11-26 12:41:33,849 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction: attempt_201211261240_0001_m_000008_0
+2012-11-26 12:41:33,988 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction: attempt_201211261240_0001_m_000009_0
+2012-11-26 12:41:35,372 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_m_000008_0 1.0% Generated 9001 samples.
+2012-11-26 12:41:35,375 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201211261240_0001_m_000008_0 is done.
+2012-11-26 12:41:35,462 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_m_000009_0 1.0% Generated 9001 samples.
+2012-11-26 12:41:35,465 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201211261240_0001_m_000009_0 is done.
+2012-11-26 12:41:36,033 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction: attempt_201211261240_0001_r_000000_0
+2012-11-26 12:41:36,999 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 38 bytes for reduce: 0 from map: attempt_201211261240_0001_m_000008_0 given 38/38 from 0 with (8, 8)
+2012-11-26 12:41:38,665 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 38 bytes for reduce: 0 from map: attempt_201211261240_0001_m_000002_0 given 38/38 from 0 with (8, 8)
+2012-11-26 12:41:40,660 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 38 bytes for reduce: 0 from map: attempt_201211261240_0001_m_000005_0 given 38/38 from 0 with (8, 8)
+2012-11-26 12:41:42,628 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_r_000000_0 0.10000001% reduce > copy (3 of 10 at 0.00 MB/s) > 
+2012-11-26 12:41:42,662 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 38 bytes for reduce: 0 from map: attempt_201211261240_0001_m_000009_0 given 38/38 from 0 with (8, 8)
+2012-11-26 12:41:44,664 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 38 bytes for reduce: 0 from map: attempt_201211261240_0001_m_000004_0 given 38/38 from 0 with (8, 8)
+2012-11-26 12:41:45,631 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_r_000000_0 0.13333334% reduce > copy (4 of 10 at 0.00 MB/s) > 
+2012-11-26 12:41:46,735 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 38 bytes for reduce: 0 from map: attempt_201211261240_0001_m_000006_0 given 38/38 from 0 with (8, 8)
+2012-11-26 12:41:48,635 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_r_000000_0 0.20000002% reduce > copy (6 of 10 at 0.00 MB/s) > 
+2012-11-26 12:41:48,667 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 38 bytes for reduce: 0 from map: attempt_201211261240_0001_m_000003_0 given 38/38 from 0 with (8, 8)
+2012-11-26 12:41:50,671 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 38 bytes for reduce: 0 from map: attempt_201211261240_0001_m_000007_0 given 38/38 from 0 with (8, 8)
+2012-11-26 12:41:51,639 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_r_000000_0 0.23333333% reduce > copy (7 of 10 at 0.00 MB/s) > 
+2012-11-26 12:41:52,676 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 38 bytes for reduce: 0 from map: attempt_201211261240_0001_m_000001_0 given 38/38 from 0 with (8, 8)
+2012-11-26 12:41:54,643 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_r_000000_0 0.3% reduce > copy (9 of 10 at 0.00 MB/s) > 
+2012-11-26 12:41:54,681 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 38 bytes for reduce: 0 from map: attempt_201211261240_0001_m_000000_0 given 38/38 from 0 with (8, 8)
+2012-11-26 12:41:55,889 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201211261240_0001_r_000000_0 0.961326% reduce > reduce
+2012-11-26 12:41:55,896 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201211261240_0001_r_000000_0 is done.
+2012-11-26 12:41:56,790 INFO org.apache.hadoop.mapred.TaskTracker: Received 'KillJobAction' for job: job_201211261240_0001
+2012-11-26 12:41:56,791 INFO org.apache.hadoop.mapred.TaskRunner: attempt_201211261240_0001_m_000008_0 done; removing files.
+2012-11-26 12:41:56,792 INFO org.apache.hadoop.mapred.TaskRunner: attempt_201211261240_0001_m_000003_0 done; removing files.
+2012-11-26 12:41:56,793 INFO org.apache.hadoop.mapred.TaskRunner: attempt_201211261240_0001_r_000000_0 done; removing files.
+2012-11-26 12:41:56,794 INFO org.apache.hadoop.mapred.TaskRunner: attempt_201211261240_0001_m_000002_0 done; removing files.
+2012-11-26 12:41:56,794 INFO org.apache.hadoop.mapred.TaskRunner: attempt_201211261240_0001_m_000006_0 done; removing files.
+2012-11-26 12:41:56,795 INFO org.apache.hadoop.mapred.TaskRunner: attempt_201211261240_0001_m_000001_0 done; removing files.
+2012-11-26 12:41:56,796 INFO org.apache.hadoop.mapred.TaskRunner: attempt_201211261240_0001_m_000009_0 done; removing files.
+2012-11-26 12:41:56,802 INFO org.apache.hadoop.mapred.TaskRunner: attempt_201211261240_0001_m_000005_0 done; removing files.
+2012-11-26 12:41:56,803 INFO org.apache.hadoop.mapred.TaskRunner: attempt_201211261240_0001_m_000007_0 done; removing files.
+2012-11-26 12:41:56,804 INFO org.apache.hadoop.mapred.TaskRunner: attempt_201211261240_0001_m_000004_0 done; removing files.
+2012-11-26 12:41:56,804 INFO org.apache.hadoop.mapred.TaskRunner: attempt_201211261240_0001_m_000000_0 done; removing files.

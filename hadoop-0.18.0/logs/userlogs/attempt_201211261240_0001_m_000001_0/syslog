@@ -1,0 +1,12 @@
+2012-11-26 12:41:25,349 INFO org.apache.hadoop.metrics.jvm.JvmMetrics: Initializing JVM Metrics with processName=MAP, sessionId=
+2012-11-26 12:41:25,577 INFO org.apache.hadoop.mapred.MapTask: numReduceTasks: 1
+2012-11-26 12:41:25,611 INFO org.apache.hadoop.mapred.MapTask: io.sort.mb = 100
+2012-11-26 12:41:26,729 INFO org.apache.hadoop.mapred.MapTask: data buffer = 79691776/99614720
+2012-11-26 12:41:26,730 INFO org.apache.hadoop.mapred.MapTask: record buffer = 262144/327680
+2012-11-26 12:41:26,940 INFO org.apache.hadoop.mapred.MapTask: Starting flush of map output
+2012-11-26 12:41:26,940 INFO org.apache.hadoop.mapred.MapTask: bufstart = 0; bufend = 32; bufvoid = 99614720
+2012-11-26 12:41:26,940 INFO org.apache.hadoop.mapred.MapTask: kvstart = 0; kvend = 2; length = 327680
+2012-11-26 12:41:27,001 INFO org.apache.hadoop.mapred.MapTask: Index: (0, 38, 38)
+2012-11-26 12:41:27,001 INFO org.apache.hadoop.mapred.MapTask: Finished spill 0
+2012-11-26 12:41:27,029 INFO org.apache.hadoop.mapred.TaskRunner: attempt_201211261240_0001_m_000001_0: No outputs to promote from hdfs://192.168.0.138:9000/user/hadoop-user/test-mini-mr/out/_temporary/_attempt_201211261240_0001_m_000001_0
+2012-11-26 12:41:27,030 INFO org.apache.hadoop.mapred.TaskRunner: Task 'attempt_201211261240_0001_m_000001_0' done.
